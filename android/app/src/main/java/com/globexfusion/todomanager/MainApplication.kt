@@ -1,4 +1,4 @@
-package com.indexceed.lizt
+package com.globexfusion.todomanager
 
 import android.app.Application
 import com.facebook.react.PackageList

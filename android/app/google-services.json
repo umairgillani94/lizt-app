@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "710492575296",
+    "project_id": "todomanager-ce6ad",
+    "storage_bucket": "todomanager-ce6ad.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710492575296:android:f215c5fb765fdfae2831a5",
+        "android_client_info": {
+          "package_name": "com.globexfusion.todomanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM6gSgM3QStEBySr86pPWdB3sSYPv5zNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

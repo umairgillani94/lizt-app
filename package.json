@@ -1,5 +1,5 @@
 {
-  "name": "lizt",
+  "name": "todomanager",
   "version": "1.0.0",
   "buildVersion": 20,
   "private": true,
@@ -13,8 +13,8 @@
     "clean": "cd android && gradlew clean",
     "build:bundle": "npm run version && cd android && gradlew clean && gradlew bundleRelease",
     "build:apk": "cd android && gradlew clean && gradlew assembleRelease",
-    "codepush:ios": "npx appcenter codepush release-react -t 1.1 -a itic.rodrigomg-gmail.com/Lizt-IOS -m -d Production",
-    "codepush:android": "npx appcenter codepush release-react -t 1.1  -a itic.rodrigomg-gmail.com/Lizt-Android -m -d Production"
+    "codepush:ios": "npx appcenter codepush release-react -t 1.1 -a itic.rodrigomg-gmail.com/todomanager-IOS -m -d Production",
+    "codepush:android": "npx appcenter codepush release-react -t 1.1  -a itic.rodrigomg-gmail.com/todomanager-Android -m -d Production"
   },
   "dependencies": {
     "@gorhom/portal": "^1.0.14",

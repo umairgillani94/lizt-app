@@ -90,9 +90,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace "com.indexceed.lizt"
+    namespace "com.globexfusion.todomanager"
     defaultConfig {
-        applicationId "com.indexceed.lizt"
+        applicationId "com.globexfusion.todomanager"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode getVersionFromPackageJson()
